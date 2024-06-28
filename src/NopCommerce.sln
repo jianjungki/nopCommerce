@@ -65,10 +65,6 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Nop.Plugin.Shipping.EasyPos
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Nop.Plugin.Widgets.What3words", "Plugins\Nop.Plugin.Widgets.What3words\Nop.Plugin.Widgets.What3words.csproj", "{CF2A6564-C31D-4A2A-B42A-6BCA38F25219}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Nop.Plugin.Tracking.AfterShip", "Plugins\Nop.Plugin.Tracking.AfterShip\Nop.Plugin.Tracking.AfterShip.csproj", "{F701565B-2F9C-4E8D-876B-FBB32898C5DD}"
-EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Nop.Plugin.Widgets.Firework", "Plugins\Nop.Plugin.Widgets.Firework\Nop.Plugin.Widgets.Firework.csproj", "{AF34633E-48C8-4EE5-9907-2E0BBE3D5F1B}"
-EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Nop.Plugin.Api", "Plugins\Nop.Plugin.Api\Nop.Plugin.Api.csproj", "{CA3A32F4-DCAE-4D68-B164-63A227FC5968}"
 EndProject
 Global
