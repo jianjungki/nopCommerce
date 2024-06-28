@@ -1,0 +1,14 @@
+﻿@{
+    Layout = "_AdminPopupLayout";
+}
+
+@if (ViewBag.RefreshPage == true)
+{
+    <script>
+        window.close();
+    </script>
+}
+else
+{
+    <h6>@ViewBag.Error</h6>
+}
